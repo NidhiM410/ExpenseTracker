@@ -57,14 +57,14 @@ input, select {
 }
 
 input:focus, select:focus {
-  border-color: #8855df;
+  border-color: #b355df;
   box-shadow: 0 0 0 3px rgba(136, 85, 223, 0.12);
 }
 
 button {
   border: none;
   border-radius: 10px;
-  background: #7043c1;
+  background: #a843c1;
   color: white;
   padding: 12px 19px;
   font-weight: 700;
@@ -72,7 +72,7 @@ button {
 }
 
 button:hover {
-  background: #56309d;
+  background: #71309d;
   transform: translateY(-1px);
 }
 
